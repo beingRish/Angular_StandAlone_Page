@@ -1,0 +1,48 @@
+
+#image1-main{
+    margin-bottom: 5px;
+
+}
+
+#box-1 img{
+    border-style: solid;
+    margin-bottom: 5px;
+    height: 150px;
+    width: 300px;
+}
+
+#box-1{
+    border-style: solid;
+    padding: 10px;
+}
+
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+#carousel{
+    border-style: solid;
+    margin-left: 20px;
+    justify-content: center;
+    padding: 8px;
+    height: 340px;
+    z-index: -1;
+}
+.carousel-inner img{
+    height: 300px;
+    width: 500px;
+}
+
+.image9
+{
+    height: 100px;
+    width: 150px;
+}
+.img11
+{
+    height: 100px;
+    width: 140px;
+}
+
+
